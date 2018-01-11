@@ -85,5 +85,4 @@ public class StudentEndpoint {
             throw new ResourceNotFoundException("Student not found for id: " + id);
         }
     }
-
 }
